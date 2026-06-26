@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Design
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

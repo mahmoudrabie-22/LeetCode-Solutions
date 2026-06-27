@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Matrix
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

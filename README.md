@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0739-daily-temperatures](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0853-car-fleet) |
 ## Design
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0853-car-fleet) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0853-car-fleet) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/mahmoudrabie-22/LeetCode-Solutions/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
